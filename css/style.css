@@ -3,14 +3,26 @@ body {
 }
 
 hr {
-
-
 border-style: none;
   border-top-style: dotted;
   border-color: white;
   border-width: 10px;
   width: 20%;
-
 }
 h1{color: #006778;}
 h3{color: #05595B;}
+
+img:hover {border-top-color: gold}
+
+.Puszedli {border-top: solid;
+border-top-width: thick;}
+.Puszedli {border-top-color:lightpink;}
+
+.puszedliolgi {border-top: solid;
+border-top-width: thick;}
+.puszedliolgi {border-top-color: lightblue;}
+
+.crochetolgi {border-top: solid;
+border-top-width: thick;}
+.crochetolgi {border-top-color: lightgrey;}
+.circular {border-radius: 100%}
