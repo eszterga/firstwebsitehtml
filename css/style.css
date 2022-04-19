@@ -3,36 +3,81 @@ body {
 }
 
 hr {
-border-style: none;
+  border-style: none;
   border-top-style: dotted;
   border-color: white;
   border-width: 10px;
   width: 20%;
 }
-h1{color: #006778;}
-h3{color: #05595B;}
 
-img:hover {border-top-color: gold}
+h1 {
+  color: #006778;
+}
 
-.Puszedli {border-top: solid;
-border-top-width: thick;}
-.Puszedli {border-top-color:lightpink;}
+h3 {
+  color: #05595B;
+}
 
-.puszedliolgi {border-top: solid;
-border-top-width: thick;}
-.puszedliolgi {border-top-color: lightblue;}
+img:hover {
+  border-top-color: gold
+}
 
-.crochetolgi {border-top: solid;
-border-top-width: thick;}
-.crochetolgi {border-top-color: lightgrey;}
-.circular {border-radius: 100%}
-.hobbies {font-family: fantasy;
-color:#C65D7B }
-.contactme {font-style: italic;
-color: #874356 }
-.freddie {font-size: 30px;
-font-weight: bolder;
-color: #00B4D8}
-.titlefreddie {font-size: 50px;
-font-style: italic;
-color: #D885A3}
+.Puszedli {
+  border-top: solid;
+  border-top-width: thick;
+}
+
+.Puszedli {
+  border-top-color: lightpink;
+}
+
+.puszedliolgi {
+  border-top: solid;
+  border-top-width: thick;
+}
+
+.puszedliolgi {
+  border-top-color: lightblue;
+}
+
+.crochetolgi {
+  border-top: solid;
+  border-top-width: thick;
+}
+
+.crochetolgi {
+  border-top-color: lightgrey;
+}
+
+.circular {
+  border-radius: 100%
+}
+
+.hobbies {
+  font-family: fantasy;
+  color: #C65D7B
+}
+
+.contactme {
+  font-style: italic;
+  color: #874356
+}
+
+.freddie {
+  font-size: 30px;
+  font-weight: bolder;
+  color: #00B4D8
+}
+
+.titlefreddie {
+  font-size: 60px;
+  font-style: italic;
+  color: #E83A14;
+}
+
+.background {
+  background-color: #FFE162;
+}
+
+.freddiepic {width: 400px;
+height: 600px}
